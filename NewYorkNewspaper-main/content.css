@@ -1,24 +1,50 @@
 .page {
-  width:
-  height:
+  width: 1000px;
+  height: 1000px;
+  color: #dbd7d2;
 }
 
 #article_title {
-
+  font-family: "anton", "500";
+  line-height: 150%;
+  letter-spacing: 10px;
+  font-size: 50px;
+  color: #3c1414;
+  text-align: center;
 }
 
 #intro {
-
+  font-family: "oswald", "500";
+  line-height: 200%;
+  letter-spacing: 2px;
+  font-size: 38px;
+  color: #922b3e;
+  text-align: center;
 }
 
 .question{
+  font-family: "raleway", "500";
+  font-size: 32px;
+  font-weight: 900;
+  color: #54626f;
 
 }
 
 .answer{
+  font-family: "raleway", "500";
+  font-size: 32px;
+  font-weight: 550;
+  color: #54626f;
 
 }
 
 #block_quote {
-
+  font-family: "Oswald", "500";
+  font-size: 38px;
+  color: #922b3e;
+  text-align: center;
+  text-shadow: 2px 2px #FF0000;
+  border: 2px solid red;
+  border-radius: 25px 25px;
+  text-align: center;
 }
